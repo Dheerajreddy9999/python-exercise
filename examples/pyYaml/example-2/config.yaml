@@ -1,0 +1,8 @@
+database:
+  name: dheeraj
+  password: secret
+  user: admin
+server:
+  debug: true
+  host: localhost
+  port: 9000
